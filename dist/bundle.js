@@ -1,0 +1,1 @@
+document.body.innerHTML='\n    <form id="form">\n        <input id="form__input"></input>\n        <button id="form__btn">submit</button>\n    </form>\n';
